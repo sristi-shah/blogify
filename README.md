@@ -2,7 +2,7 @@
 
 ## About the Website
 
-- <b>'BLOGIFY'</b>  is a web application which helps a registered user to create new blogs to hare their idea,stories,experiences and thoughts with a wide range of people just by posting them on this website.
+- <b>'BLOGIFY'</b>  is a web application which helps a registered user to create new blogs to share their ideas,stories,experiences and thoughts with a wide range of people just by posting them on this website.
 - <b>Languages and Technologies used : </b> MongoDB,Nodejs,React,HTML & CSS
 
 
