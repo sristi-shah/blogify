@@ -57,7 +57,7 @@ Open your favorite browser. I recommend using Google Chrome or Brave and the app
 
 ![](ss/8.png)
 
-<h3 align='center'>This is how the screen will look like</h3>
+<h3 align='center'>This is how the screen will look like.You can read a blog by clicking on its title.</h3>
 
 ![](ss/9.png)
 
