@@ -2,7 +2,7 @@
 
 ## About the Website
 
-- <b>'BLOGIFY'</b>  is a web application which helps a registered user to create new blogs and maintain them while other uers may read these blogs.
+- <b>'BLOGIFY'</b>  is a web application which helps a registered user to create new blogs to hare their idea,stories,experiences and thoughts with a wide range of people just by posting them on this website.
 - <b>Languages and Technologies used : </b> MongoDB,Nodejs,React,HTML & CSS
 
 
@@ -29,7 +29,7 @@ Open your favorite browser. I recommend using Google Chrome or Brave and the app
 
 <h3 align='center'>Home Page</h3>
 
-![](ss/10.png)
+![](ss/0.png)
 
 <h3 align='center'>Click on register button and register page opens up</h3>
 
@@ -66,3 +66,4 @@ Open your favorite browser. I recommend using Google Chrome or Brave and the app
 ![](ss/10.png)
 
 
+<h2 align='center'>Hope you have a great blogging experience!!!!</h2>
