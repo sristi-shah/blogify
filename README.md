@@ -29,7 +29,7 @@ Open your favorite browser. I recommend using Google Chrome or Brave and the app
 
 <h3 align='center'>Home Page</h3>
 
-![](ss/0.png)
+![](ss/home.png)
 
 <h3 align='center'>Click on register button and register page opens up</h3>
 
